@@ -1,0 +1,22 @@
+!! st (simple terminal) settings
+st.alpha: 0.97
+st.font: InconsolataNF-12
+st.termname: st-256color
+st.borderpx: 3
+
+!! URxvt Appearance
+URxvt.font: xft:Inconsolata NF:style=Regular:size=14
+URxvt.boldFont: xft:Inconsolata NF:style=Bold:size=14
+URxvt.letterSpace: 0
+URxvt.lineSpace: 0
+URxvt.geometry: 92x24
+URxvt.internalBorder: 8
+URxvt.cursorBlink: true
+URxvt.cursorUnderline: true
+URxvt.saveline: 2048
+URxvt.scrollBar: false
+URxvt.scrollBar_right: false
+URxvt.urgentOnBell: true
+URxvt.iso14755: false
+URxvt.shading: 20
+URxvt.depth: 32i

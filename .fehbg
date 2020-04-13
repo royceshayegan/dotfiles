@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-fill '/home/royce/.config/wpg/wallpapers/a3555930260_10.jpg' 
